@@ -1,0 +1,941 @@
+nome,genero,rating,playtime,lancamento,tempo_categoria,recomendado
+Grand Theft Auto V,Action,4.47,74,2013-09-17,Longo,True
+The Witcher 3: Wild Hunt,Action,4.64,43,2015-05-18,Longo,True
+Tomb Raider (2013),Action,4.06,10,2013-03-05,Médio,True
+Portal,Action,4.49,4,2007-10-09,Curto,True
+Left 4 Dead 2,Action,4.09,9,2009-11-17,Curto,True
+The Elder Scrolls V: Skyrim,Action,4.42,46,2011-11-11,Longo,True
+Red Dead Redemption 2,Action,4.59,21,2018-10-26,Longo,True
+BioShock Infinite,Action,4.38,12,2013-03-26,Médio,True
+Half-Life 2,Action,4.48,7,2004-11-16,Curto,True
+Borderlands 2,Action,4.01,11,2012-09-18,Médio,True
+BioShock,Action,4.36,3,2007-08-21,Curto,True
+Destiny 2,Action,3.52,6,2017-09-06,Curto,True
+God of War (2018),Action,4.55,14,2018-04-20,Médio,True
+Fallout 4,Action,3.81,38,2015-11-09,Longo,True
+PAYDAY 2,Action,3.52,9,2013-08-13,Curto,True
+Limbo,Action,4.14,3,2010-07-21,Curto,True
+Team Fortress 2,Action,3.68,8,2007-10-10,Curto,True
+DOOM (2016),Action,4.38,10,2016-05-12,Médio,True
+Cyberpunk 2077,Action,4.21,29,2020-12-10,Longo,True
+Terraria,Action,4.07,15,2011-05-16,Médio,True
+Dota 2,Action,3.07,14,2013-07-09,Médio,False
+Warframe,Action,3.42,8,2013-03-25,Curto,False
+Grand Theft Auto IV,Action,4.26,10,2008-04-29,Médio,True
+Horizon Zero Dawn,Action,4.28,11,2017-02-28,Médio,True
+Metro 2033,Action,3.94,2,2010-03-16,Curto,True
+Rise of the Tomb Raider,Action,4.04,14,2015-11-10,Médio,True
+Batman: Arkham Knight,Action,4.24,19,2015-06-23,Médio,True
+Metal Gear Solid V: The Phantom Pain,Action,4.16,22,2015-09-01,Longo,True
+Apex Legends,Action,3.64,5,2019-02-04,Curto,True
+The Witcher: Enhanced Edition Director's Cut,Action,4.06,5,2008-09-16,Curto,True
+Grand Theft Auto: San Andreas,Action,4.5,2,2004-10-26,Curto,True
+Half-Life 2: Lost Coast,Action,3.45,1,2005-10-27,Curto,False
+Middle-earth: Shadow of Mordor,Action,3.9,13,2014-09-30,Médio,True
+The Walking Dead: Season 1,Action,4.36,8,2012-04-23,Curto,True
+Hollow Knight,Action,4.4,7,2017-02-23,Curto,True
+Little Nightmares,Action,4.04,3,2017-04-27,Curto,True
+BioShock 2,Action,4.07,3,2010-02-09,Curto,True
+Half-Life,Action,4.37,3,1998-11-19,Curto,True
+Half-Life 2: Episode One,Action,4.38,4,2006-06-01,Curto,True
+Half-Life 2: Deathmatch,Action,3.28,1,2004-11-01,Curto,False
+Half-Life 2: Episode Two,Action,4.45,5,2007-10-10,Curto,True
+Dark Souls III,Action,4.4,29,2016-04-11,Longo,True
+Hitman,Action,3.93,7,2016-03-11,Curto,True
+Mirror's Edge,Action,4.07,3,2008-11-11,Curto,True
+Hotline Miami,Action,4.38,5,2012-10-22,Curto,True
+Outlast,Action,3.74,3,2013-09-03,Curto,True
+Deus Ex: Mankind Divided,Action,3.96,7,2016-08-22,Curto,True
+PlayerUnknown’s Battlegrounds,Action,3.27,29,2017-12-20,Longo,False
+Path of Exile,Action,3.65,6,2013-10-23,Curto,True
+Far Cry 3,Action,4.25,16,2012-11-28,Médio,True
+Garry's Mod,Action,3.8,14,2004-12-24,Médio,True
+Amnesia: The Dark Descent,Action,3.65,2,2010-09-08,Curto,True
+Half-Life Deathmatch: Source,Action,3.21,1,2006-05-01,Curto,False
+Alan Wake,Action,4.09,5,2010-05-14,Curto,True
+Wolfenstein: The New Order,Action,4.18,12,2014-05-19,Médio,True
+Spec Ops: The Line,Action,4.09,5,2012-06-26,Curto,True
+Saints Row: The Third,Action,3.95,14,2011-11-15,Médio,True
+Marvel's Spider-Man,Action,4.45,6,2018-09-07,Curto,True
+Detroit: Become Human,Action,4.33,10,2018-05-25,Médio,True
+Prey,Action,4.28,10,2017-05-05,Médio,True
+Fallout: New Vegas,Action,4.43,12,2010-10-19,Médio,True
+Borderlands,Action,3.82,10,2009-10-20,Médio,True
+The Elder Scrolls V: Skyrim Special Edition,Action,4.45,9,2016-10-27,Curto,True
+Don't Starve Together,Action,3.77,7,2016-04-21,Curto,True
+Dishonored 2,Action,4.26,12,2016-11-10,Médio,True
+Injustice: Gods Among Us Ultimate Edition,Action,3.52,5,2013-11-12,Curto,True
+Dishonored,Action,4.37,9,2012-09-25,Curto,True
+Hellblade: Senua's Sacrifice,Action,4.23,6,2017-08-07,Curto,True
+Hitman: Absolution,Action,3.75,7,2012-11-19,Curto,True
+Grand Theft Auto: Vice City,Action,4.45,2,2002-10-27,Curto,True
+For Honor,Action,3.3,8,2017-02-13,Curto,False
+L.A. Noire,Action,4.16,7,2011-05-17,Curto,True
+Assassin’s Creed IV: Black Flag,Action,4.14,25,2013-10-29,Longo,True
+Control,Action,4.15,6,2019-08-27,Curto,True
+Star Wars Jedi: Fallen Order,Action,4.14,8,2019-11-15,Curto,True
+Dead Space (2008),Action,4.38,3,2008-10-13,Curto,True
+Mass Effect 2,Action,4.47,22,2010-01-26,Longo,True
+Just Cause 3,Action,3.4,7,2015-11-30,Curto,False
+Metro: Last Light Redux,Action,4.13,7,2014-08-25,Curto,True
+Borderlands: The Pre-Sequel,Action,3.55,6,2014-10-13,Curto,True
+Counter-Strike,Action,4.05,3,2000-11-01,Curto,True
+Death Stranding,Action,4.32,11,2019-11-08,Médio,True
+Left 4 Dead,Action,4.1,5,2008-11-17,Curto,True
+Metro 2033 Redux,Action,4.1,6,2014-08-25,Curto,True
+BioShock 2 Remastered,Action,4.0,4,2016-09-15,Curto,True
+Metal Gear Solid V: Ground Zeroes,Action,3.9,3,2014-03-18,Curto,True
+Mortal Kombat X,Action,3.86,7,2015-04-07,Curto,True
+The Last Of Us Remastered,Action,4.69,16,2014-07-29,Médio,True
+ARK: Survival Of The Fittest,Action,2.59,1,2016-03-15,Curto,False
+Just Cause 2,Action,3.61,3,2010-03-23,Curto,True
+NieR:Automata,Action,4.37,13,2017-03-17,Médio,True
+Fall Guys: Ultimate Knockout,Action,3.73,6,2020-08-04,Curto,True
+Hades,Action,4.44,10,2020-09-17,Médio,True
+Mass Effect,Action,4.39,9,2007-11-16,Curto,True
+Monster Hunter: World,Action,4.01,15,2018-01-26,Médio,True
+Mad Max,Action,3.78,11,2015-08-31,Médio,True
+Bastion,Action,4.15,4,2011-07-20,Curto,True
+Paladins,Action,3.08,6,2016-09-15,Curto,False
+Middle-earth: Shadow of War,Action,3.85,13,2017-09-27,Médio,True
+Batman: Arkham City - Game of the Year Edition,Action,4.4,9,2012-09-07,Curto,True
+ARK: Survival Evolved,Action,3.07,6,2015-06-02,Curto,False
+Minecraft,Action,4.43,26,2009-05-10,Longo,True
+Resident Evil 7: Biohazard,Action,4.33,10,2017-01-23,Médio,True
+Titanfall 2,Action,4.31,5,2016-10-28,Curto,True
+Bloodborne,Action,4.41,12,2015-03-24,Médio,True
+Batman: Arkham Asylum Game of the Year Edition,Action,4.38,8,2010-03-26,Curto,True
+Unturned,Action,2.73,3,2014-07-07,Curto,False
+Warhammer: Vermintide 2,Action,3.61,7,2018-03-08,Curto,True
+SEGA Mega Drive and Genesis Classics,Action,2.98,2,2010-06-01,Curto,False
+Brutal Legend,Action,3.64,5,2009-10-12,Curto,True
+Brothers: A Tale of Two Sons,Action,4.18,3,2013-08-07,Curto,True
+Mafia II,Action,4.24,13,2010-08-24,Médio,True
+Far Cry 5,Action,3.72,19,2018-03-27,Médio,True
+Psychonauts,Action,4.04,4,2005-04-01,Curto,True
+Watch Dogs,Action,3.59,16,2014-05-27,Médio,True
+Shadow of the Tomb Raider,Action,3.91,10,2018-09-14,Médio,True
+Metro Exodus,Action,4.16,6,2019-02-13,Curto,True
+Brawlhalla,Action,3.22,2,2014-04-30,Curto,False
+Heavy Rain,Action,4.12,5,2010-02-17,Curto,True
+Limbo,Indie,4.14,3,2010-07-21,Curto,True
+Terraria,Indie,4.07,15,2011-05-16,Médio,True
+Rocket League,Indie,3.93,21,2015-07-07,Longo,True
+Hollow Knight,Indie,4.4,7,2017-02-23,Curto,True
+Hotline Miami,Indie,4.38,5,2012-10-22,Curto,True
+Stardew Valley,Indie,4.4,13,2016-02-25,Médio,True
+Outlast,Indie,3.74,3,2013-09-03,Curto,True
+Path of Exile,Indie,3.65,6,2013-10-23,Curto,True
+Garry's Mod,Indie,3.8,14,2004-12-24,Médio,True
+Amnesia: The Dark Descent,Indie,3.65,2,2010-09-08,Curto,True
+Don't Starve Together,Indie,3.77,7,2016-04-21,Curto,True
+Hellblade: Senua's Sacrifice,Indie,4.23,6,2017-08-07,Curto,True
+Super Meat Boy,Indie,3.98,3,2010-10-20,Curto,True
+ARK: Survival Of The Fittest,Indie,2.59,1,2016-03-15,Curto,False
+Fall Guys: Ultimate Knockout,Indie,3.73,6,2020-08-04,Curto,True
+Hades,Indie,4.44,10,2020-09-17,Médio,True
+Bastion,Indie,4.15,4,2011-07-20,Curto,True
+ARK: Survival Evolved,Indie,3.07,6,2015-06-02,Curto,False
+Minecraft,Indie,4.43,26,2009-05-10,Longo,True
+Journey,Indie,4.32,2,2012-03-13,Curto,True
+Warhammer: Vermintide 2,Indie,3.61,7,2018-03-08,Curto,True
+Undertale,Indie,4.34,5,2015-09-14,Curto,True
+Brothers: A Tale of Two Sons,Indie,4.18,3,2013-08-07,Curto,True
+Brawlhalla,Indie,3.22,2,2014-04-30,Curto,False
+INSIDE,Indie,4.39,4,2016-06-28,Curto,True
+Firewatch,Indie,4.3,5,2016-02-08,Curto,True
+No Man's Sky,Indie,3.7,15,2016-08-09,Médio,True
+Cuphead,Indie,4.37,6,2017-09-29,Curto,True
+Disco Elysium,Indie,4.39,6,2019-10-14,Curto,True
+Transistor,Indie,4.17,4,2014-05-20,Curto,True
+Layers of Fear,Indie,3.53,3,2016-02-16,Curto,True
+Insurgency,Indie,3.42,4,2014-01-22,Curto,False
+The Stanley Parable,Indie,4.37,3,2013-10-17,Curto,True
+Amnesia: A Machine for Pigs,Indie,3.22,2,2013-09-09,Curto,False
+Viscera Cleanup Detail: Shadow Warrior,Indie,2.59,2,2013-09-26,Curto,False
+Trine 2: Complete Story,Indie,3.71,4,2013-06-05,Curto,True
+SOMA,Indie,4.16,6,2015-09-21,Curto,True
+This War of Mine,Indie,4.07,4,2014-11-14,Curto,True
+Shadowrun Returns,Indie,3.5,4,2013-07-24,Curto,True
+Dead Cells,Indie,4.24,10,2018-08-07,Médio,True
+"Papers, Please",Indie,4.38,4,2013-08-08,Curto,True
+Subnautica,Indie,4.25,10,2018-01-23,Médio,True
+FEZ,Indie,4.0,2,2012-04-13,Curto,True
+Castle Crashers,Indie,3.88,4,2008-08-27,Curto,True
+Darkest Dungeon,Indie,4.17,8,2016-01-18,Curto,True
+Don't Starve,Indie,3.85,4,2013-04-22,Curto,True
+Chivalry: Medieval Warfare,Indie,3.4,4,2012-10-16,Curto,False
+The Binding of Isaac,Indie,3.91,5,2011-09-28,Curto,True
+Guacamelee! Super Turbo Championship Edition,Indie,3.55,3,2014-07-01,Curto,True
+SUPERHOT,Indie,4.19,4,2016-02-24,Curto,True
+Goat Simulator,Indie,3.17,3,2014-04-01,Curto,False
+What Remains of Edith Finch,Indie,4.38,3,2017-04-23,Curto,True
+Hotline Miami 2: Wrong Number,Indie,4.28,7,2015-03-09,Curto,True
+FTL: Faster Than Light,Indie,4.25,6,2012-09-14,Curto,True
+Broforce,Indie,4.02,6,2015-10-15,Curto,True
+The Witness,Indie,4.01,4,2016-01-25,Curto,True
+Kingdom: Classic,Indie,3.39,4,2015-09-21,Curto,False
+Euro Truck Simulator 2,Indie,4.12,12,2012-10-19,Médio,True
+The Forest,Indie,3.75,8,2018-04-30,Curto,True
+POSTAL 2,Indie,3.91,4,2003-04-13,Curto,True
+A Story About My Uncle,Indie,3.15,3,2014-05-27,Curto,False
+To the Moon,Indie,4.29,4,2011-01-10,Curto,True
+Celeste,Indie,4.38,6,2018-01-25,Curto,True
+Black Mesa,Indie,4.34,6,2020-03-06,Curto,True
+Rust,Indie,3.37,15,2018-02-09,Médio,False
+Overcooked,Indie,4.07,4,2016-08-01,Curto,True
+Human: Fall Flat,Indie,3.82,5,2016-07-22,Curto,True
+Doki Doki Literature Club!,Indie,4.05,3,2017-09-22,Curto,True
+The Long Dark,Indie,3.91,5,2014-09-22,Curto,True
+Titan Souls,Indie,3.33,1,2015-04-13,Curto,False
+Divinity: Original Sin - Enhanced Edition,Indie,4.26,8,2015-10-27,Curto,True
+Hacknet,Indie,3.18,3,2015-08-11,Curto,False
+Guns of Icarus Online,Indie,2.59,4,2012-09-30,Curto,False
+Dear Esther: Landmark Edition,Indie,3.32,1,2017-02-14,Curto,False
+Prison Architect,Indie,3.72,5,2015-10-05,Curto,True
+Minion Masters,Indie,2.3,5,2019-05-24,Curto,False
+Beholder,Indie,3.81,4,2016-11-08,Curto,True
+Jotun: Valhalla Edition,Indie,3.06,3,2015-09-29,Curto,False
+Starbound,Indie,3.82,17,2016-07-22,Médio,True
+Stray,Indie,4.16,5,2022-07-19,Curto,True
+Sanctum 2,Indie,2.97,3,2013-05-15,Curto,False
+Serious Sam Fusion 2017 (beta),Indie,3.05,1,2017-03-20,Curto,False
+Braid,Indie,4.16,2,2008-08-06,Curto,True
+Trine Enchanted Edition,Indie,3.83,4,2009-07-02,Curto,True
+Enter the Gungeon,Indie,4.08,6,2016-04-04,Curto,True
+Serious Sam 3: BFE,Indie,3.46,4,2011-11-22,Curto,False
+Mark of the Ninja,Indie,3.98,5,2012-09-07,Curto,True
+BattleBlock Theater,Indie,3.84,5,2013-04-03,Curto,True
+Drawful 2,Indie,3.21,1,2016-06-20,Curto,False
+Orwell: Keeping an Eye On You,Indie,3.27,3,2016-10-27,Curto,False
+Slay the Spire,Indie,4.37,12,2019-01-22,Médio,True
+Deep Rock Galactic,Indie,4.12,7,2020-05-13,Curto,True
+Oxenfree,Indie,3.91,4,2016-01-14,Curto,True
+Broken Age,Indie,3.65,5,2014-01-28,Curto,True
+ABZU,Indie,3.92,3,2016-08-02,Curto,True
+Child of Light,Indie,3.85,3,2014-04-29,Curto,True
+Vampire Survivors,Indie,4.19,11,2022-10-20,Médio,True
+Monaco: What's Yours Is Mine,Indie,3.0,3,2013-04-24,Curto,False
+The Flame in the Flood,Indie,2.9,2,2016-02-23,Curto,False
+The Talos Principle,Indie,4.15,5,2014-12-11,Curto,True
+Heroes & Generals,Indie,2.77,2,2016-10-18,Curto,False
+Divinity: Original Sin,Indie,4.18,6,2014-06-30,Curto,True
+Spelunky,Indie,3.69,3,2012-07-04,Curto,True
+Gris,Indie,4.2,3,2018-12-13,Curto,True
+Valheim,Indie,4.0,12,2021-02-02,Médio,True
+Rogue Legacy,Indie,3.87,6,2013-06-27,Curto,True
+Deponia,Indie,3.84,4,2012-01-27,Curto,True
+Tabletop Simulator,Indie,4.05,7,2015-06-05,Curto,True
+Dust: An Elysian Tail,Indie,3.63,4,2012-08-15,Curto,True
+Outer Wilds,Indie,4.38,4,2019-05-29,Curto,True
+Machinarium,Indie,4.17,3,2009-10-16,Curto,True
+The Swapper,Indie,3.53,3,2013-05-13,Curto,True
+Shadow Tactics: Blades of the Shogun,Indie,4.08,4,2016-12-05,Curto,True
+Sins of a Solar Empire: Rebellion,Indie,2.73,5,2012-06-12,Curto,False
+World of Goo,Indie,4.02,1,2008-10-13,Curto,True
+Ricochet,Indie,2.39,1,2000-11-01,Curto,False
+Robocraft,Indie,2.56,2,2014-07-08,Curto,False
+Outlast 2,Indie,3.67,5,2017-04-24,Curto,True
+Satellite Reign,Indie,2.65,4,2015-08-27,Curto,False
+Overcooked! 2,Indie,4.15,4,2018-08-06,Curto,True
+Life is Strange,Adventure,4.12,6,2015-01-29,Curto,True
+Limbo,Adventure,4.14,3,2010-07-21,Curto,True
+The Walking Dead: Season 1,Adventure,4.36,8,2012-04-23,Curto,True
+Little Nightmares,Adventure,4.04,3,2017-04-27,Curto,True
+Garry's Mod,Adventure,3.8,14,2004-12-24,Médio,True
+Amnesia: The Dark Descent,Adventure,3.65,2,2010-09-08,Curto,True
+Alan Wake,Adventure,4.09,5,2010-05-14,Curto,True
+Saints Row: The Third,Adventure,3.95,14,2011-11-15,Médio,True
+Detroit: Become Human,Adventure,4.33,10,2018-05-25,Médio,True
+Dishonored,Adventure,4.37,9,2012-09-25,Curto,True
+Hellblade: Senua's Sacrifice,Adventure,4.23,6,2017-08-07,Curto,True
+L.A. Noire,Adventure,4.16,7,2011-05-17,Curto,True
+Control,Adventure,4.15,6,2019-08-27,Curto,True
+Star Wars Jedi: Fallen Order,Adventure,4.14,8,2019-11-15,Curto,True
+Death Stranding,Adventure,4.32,11,2019-11-08,Médio,True
+The Last Of Us Remastered,Adventure,4.69,16,2014-07-29,Médio,True
+Hades,Adventure,4.44,10,2020-09-17,Médio,True
+Monster Hunter: World,Adventure,4.01,15,2018-01-26,Médio,True
+Mad Max,Adventure,3.78,11,2015-08-31,Médio,True
+Bastion,Adventure,4.15,4,2011-07-20,Curto,True
+Batman: Arkham City - Game of the Year Edition,Adventure,4.4,9,2012-09-07,Curto,True
+ARK: Survival Evolved,Adventure,3.07,6,2015-06-02,Curto,False
+Resident Evil 7: Biohazard,Adventure,4.33,10,2017-01-23,Médio,True
+Journey,Adventure,4.32,2,2012-03-13,Curto,True
+Batman: Arkham Asylum Game of the Year Edition,Adventure,4.38,8,2010-03-26,Curto,True
+SEGA Mega Drive and Genesis Classics,Adventure,2.98,2,2010-06-01,Curto,False
+Brothers: A Tale of Two Sons,Adventure,4.18,3,2013-08-07,Curto,True
+Watch Dogs,Adventure,3.59,16,2014-05-27,Médio,True
+Shadow of the Tomb Raider,Adventure,3.91,10,2018-09-14,Médio,True
+Heavy Rain,Adventure,4.12,5,2010-02-17,Curto,True
+INSIDE,Adventure,4.39,4,2016-06-28,Curto,True
+Saints Row IV,Adventure,3.82,13,2013-08-20,Médio,True
+Firewatch,Adventure,4.3,5,2016-02-08,Curto,True
+No Man's Sky,Adventure,3.7,15,2016-08-09,Médio,True
+Alien: Isolation,Adventure,4.2,4,2014-10-05,Curto,True
+Disco Elysium,Adventure,4.39,6,2019-10-14,Curto,True
+Halo Infinite,Adventure,3.65,2,2021-12-08,Curto,True
+Layers of Fear,Adventure,3.53,3,2016-02-16,Curto,True
+The Wolf Among Us,Adventure,4.39,9,2013-10-10,Curto,True
+Ori and the Blind Forest: Definitive Edition,Adventure,4.42,6,2016-04-27,Curto,True
+The Stanley Parable,Adventure,4.37,3,2013-10-17,Curto,True
+Black Desert Online,Adventure,2.91,4,2014-12-01,Curto,False
+Amnesia: A Machine for Pigs,Adventure,3.22,2,2013-09-09,Curto,False
+Ori and the Blind Forest,Adventure,4.38,6,2015-03-10,Curto,True
+SOMA,Adventure,4.16,6,2015-09-21,Curto,True
+Kingdom Come: Deliverance,Adventure,4.04,10,2018-02-13,Médio,True
+This War of Mine,Adventure,4.07,4,2014-11-14,Curto,True
+Thief,Adventure,3.26,5,2014-02-25,Curto,False
+Watch Dogs 2,Adventure,3.84,17,2016-11-28,Médio,True
+Lara Croft and the Temple of Osiris,Adventure,3.09,2,2014-12-08,Curto,False
+The Last Of Us,Adventure,4.55,15,2013-06-14,Médio,True
+South Park: The Stick of Truth,Adventure,4.22,12,2014-03-04,Médio,True
+Subnautica,Adventure,4.25,10,2018-01-23,Médio,True
+FEZ,Adventure,4.0,2,2012-04-13,Curto,True
+A Plague Tale: Innocence,Adventure,4.15,7,2019-05-13,Curto,True
+Halo: The Master Chief Collection,Adventure,4.24,7,2014-11-11,Curto,True
+Syberia,Adventure,3.93,3,2002-01-09,Curto,True
+DmC: Devil May Cry,Adventure,4.02,6,2013-01-15,Curto,True
+Sleeping Dogs: Definitive Edition,Adventure,4.15,6,2014-10-08,Curto,True
+Beyond: Two Souls,Adventure,3.8,4,2013-10-07,Curto,True
+Mafia III,Adventure,3.13,9,2016-10-06,Curto,False
+What Remains of Edith Finch,Adventure,4.38,3,2017-04-23,Curto,True
+Grim Fandango Remastered,Adventure,4.0,5,2015-01-26,Curto,True
+The Witness,Adventure,4.01,4,2016-01-25,Curto,True
+Ori and the Will of the Wisps,Adventure,4.43,11,2020-03-10,Médio,True
+The Forest,Adventure,3.75,8,2018-04-30,Curto,True
+POSTAL 2,Adventure,3.91,4,2003-04-13,Curto,True
+The Outer Worlds,Adventure,3.86,8,2019-10-25,Curto,True
+The Walking Dead: Season 2,Adventure,4.06,10,2013-12-16,Médio,True
+Syberia 2,Adventure,3.88,5,2004-03-30,Curto,True
+A Story About My Uncle,Adventure,3.15,3,2014-05-27,Curto,False
+Borderlands 3,Adventure,3.88,11,2019-09-13,Médio,True
+Sleeping Dogs,Adventure,4.13,14,2012-08-14,Médio,True
+The Legend of Zelda: Breath of the Wild,Adventure,4.49,121,2017-03-03,Longo,True
+To the Moon,Adventure,4.29,4,2011-01-10,Curto,True
+Bayonetta,Adventure,4.3,5,2009-06-23,Curto,True
+Ratchet & Clank,Adventure,4.05,18,2016-04-12,Médio,True
+LEGO The Lord of the Rings,Adventure,3.55,2,2012-10-30,Curto,True
+STAR WARS Battlefront II,Adventure,3.57,4,2017-11-17,Curto,True
+S.T.A.L.K.E.R.: Shadow of Chernobyl,Adventure,4.28,3,2007-03-19,Curto,True
+Doki Doki Literature Club!,Adventure,4.05,3,2017-09-22,Curto,True
+Until Dawn,Adventure,4.1,14,2015-08-25,Médio,True
+A Way Out,Adventure,4.12,6,2018-03-23,Curto,True
+The Long Dark,Adventure,3.91,5,2014-09-22,Curto,True
+Mortal Kombat 11,Adventure,3.96,9,2019-04-22,Curto,True
+Ryse: Son of Rome,Adventure,3.59,6,2013-11-22,Curto,True
+Dear Esther: Landmark Edition,Adventure,3.32,1,2017-02-14,Curto,False
+Star Wars: Knights of the Old Republic II – The Sith Lords,Adventure,4.37,4,2004-12-06,Curto,True
+Sea of Thieves,Adventure,3.68,13,2018-03-20,Médio,True
+The Evil Within,Adventure,3.97,6,2014-10-12,Curto,True
+Beholder,Adventure,3.81,4,2016-11-08,Curto,True
+Murdered: Soul Suspect,Adventure,3.48,5,2014-06-03,Curto,False
+LEGO The Hobbit,Adventure,3.41,2,2014-04-08,Curto,False
+Stray,Adventure,4.16,5,2022-07-19,Curto,True
+Resident Evil Revelations 2,Adventure,3.68,4,2015-02-24,Curto,True
+Resident Evil 2,Adventure,4.5,11,2019-01-25,Médio,True
+Lords of the Fallen (2014),Adventure,2.91,4,2014-10-28,Curto,False
+It Takes Two,Adventure,4.46,10,2021-03-26,Médio,True
+BattleBlock Theater,Adventure,3.84,5,2013-04-03,Curto,True
+Game of Thrones - A Telltale Games Series,Adventure,3.23,7,2014-12-02,Curto,False
+Orwell: Keeping an Eye On You,Adventure,3.27,3,2016-10-27,Curto,False
+Resident Evil 3,Adventure,4.04,8,2020-04-02,Curto,True
+Mafia II: Definitive Edition,Adventure,3.88,3,2020-05-19,Curto,True
+Dragon's Dogma: Dark Arisen,Adventure,3.92,7,2013-04-23,Curto,True
+Oxenfree,Adventure,3.91,4,2016-01-14,Curto,True
+Broken Age,Adventure,3.65,5,2014-01-28,Curto,True
+VRChat,Adventure,3.14,2,2017-02-01,Curto,False
+ABZU,Adventure,3.92,3,2016-08-02,Curto,True
+Tales from the Borderlands: A Telltale Game Series,Adventure,4.19,11,2015-10-21,Médio,True
+Sonic Mania,Adventure,3.86,3,2017-08-15,Curto,True
+Lara Croft and the Guardian of Light,Adventure,3.42,2,2010-08-05,Curto,False
+The Talos Principle,Adventure,4.15,5,2014-12-11,Curto,True
+STAR WARS Battlefront,Adventure,3.29,3,2015-11-17,Curto,False
+Tomb Raider: Underworld,Adventure,3.69,1,2008-11-18,Curto,True
+Vampyr,Adventure,3.49,6,2018-06-04,Curto,False
+Gris,Adventure,4.2,3,2018-12-13,Curto,True
+Dying Light,Adventure,4.1,22,2015-01-27,Longo,True
+The Witcher 3: Wild Hunt,RPG,4.64,43,2015-05-18,Longo,True
+The Elder Scrolls V: Skyrim,RPG,4.42,46,2011-11-11,Longo,True
+Borderlands 2,RPG,4.01,11,2012-09-18,Médio,True
+Fallout 4,RPG,3.81,38,2015-11-09,Longo,True
+Cyberpunk 2077,RPG,4.21,29,2020-12-10,Longo,True
+Warframe,RPG,3.42,8,2013-03-25,Curto,False
+Horizon Zero Dawn,RPG,4.28,11,2017-02-28,Médio,True
+The Witcher 2: Assassins of Kings Enhanced Edition,RPG,4.16,7,2012-04-16,Curto,True
+The Witcher: Enhanced Edition Director's Cut,RPG,4.06,5,2008-09-16,Curto,True
+Middle-earth: Shadow of Mordor,RPG,3.9,13,2014-09-30,Médio,True
+Dark Souls III,RPG,4.4,29,2016-04-11,Longo,True
+Stardew Valley,RPG,4.4,13,2016-02-25,Médio,True
+Deus Ex: Mankind Divided,RPG,3.96,7,2016-08-22,Curto,True
+Path of Exile,RPG,3.65,6,2013-10-23,Curto,True
+Prey,RPG,4.28,10,2017-05-05,Médio,True
+Fallout: New Vegas,RPG,4.43,12,2010-10-19,Médio,True
+Borderlands,RPG,3.82,10,2009-10-20,Médio,True
+The Elder Scrolls V: Skyrim Special Edition,RPG,4.45,9,2016-10-27,Curto,True
+Dishonored 2,RPG,4.26,12,2016-11-10,Médio,True
+Dishonored,RPG,4.37,9,2012-09-25,Curto,True
+Mass Effect 2,RPG,4.47,22,2010-01-26,Longo,True
+Borderlands: The Pre-Sequel,RPG,3.55,6,2014-10-13,Curto,True
+BioShock 2 Remastered,RPG,4.0,4,2016-09-15,Curto,True
+ARK: Survival Of The Fittest,RPG,2.59,1,2016-03-15,Curto,False
+NieR:Automata,RPG,4.37,13,2017-03-17,Médio,True
+Hades,RPG,4.44,10,2020-09-17,Médio,True
+Mass Effect,RPG,4.39,9,2007-11-16,Curto,True
+Monster Hunter: World,RPG,4.01,15,2018-01-26,Médio,True
+Bastion,RPG,4.15,4,2011-07-20,Curto,True
+Middle-earth: Shadow of War,RPG,3.85,13,2017-09-27,Médio,True
+ARK: Survival Evolved,RPG,3.07,6,2015-06-02,Curto,False
+Bloodborne,RPG,4.41,12,2015-03-24,Médio,True
+Undertale,RPG,4.34,5,2015-09-14,Curto,True
+Fallout,RPG,4.2,1,1997-09-30,Curto,True
+SEGA Mega Drive and Genesis Classics,RPG,2.98,2,2010-06-01,Curto,False
+Sekiro: Shadows Die Twice,RPG,4.38,16,2019-03-22,Médio,True
+No Man's Sky,RPG,3.7,15,2016-08-09,Médio,True
+Assassin's Creed Odyssey,RPG,3.98,31,2018-10-05,Longo,True
+Titan Quest Anniversary Edition,RPG,3.79,5,2016-08-31,Curto,True
+Disco Elysium,RPG,4.39,6,2019-10-14,Curto,True
+Elden Ring,RPG,4.4,62,2022-02-25,Longo,True
+Assassin's Creed Origins,RPG,3.96,28,2017-10-27,Longo,True
+Transistor,RPG,4.17,4,2014-05-20,Curto,True
+Deus Ex: Human Revolution - Director's Cut,RPG,4.3,6,2013-10-22,Curto,True
+XCOM 2,RPG,4.1,15,2016-02-04,Médio,True
+Black Desert Online,RPG,2.91,4,2014-12-01,Curto,False
+Kingdom Come: Deliverance,RPG,4.04,10,2018-02-13,Médio,True
+Shadowrun Returns,RPG,3.5,4,2013-07-24,Curto,True
+Magicka,RPG,3.8,5,2011-01-25,Curto,True
+Dead Cells,RPG,4.24,10,2018-08-07,Médio,True
+Darksiders Warmastered Edition,RPG,3.68,5,2016-11-29,Curto,True
+Divinity: Original Sin 2,RPG,4.39,22,2017-09-14,Longo,True
+Dead Island,RPG,3.47,7,2011-09-06,Curto,False
+Fallout Shelter,RPG,3.43,3,2015-06-15,Curto,False
+South Park: The Stick of Truth,RPG,4.22,12,2014-03-04,Médio,True
+Darkest Dungeon,RPG,4.17,8,2016-01-18,Curto,True
+Dying Light: The Following - Enhanced Edition,RPG,4.13,17,2015-01-26,Médio,True
+Star Wars: Knights of the Old Republic,RPG,4.36,2,2003-07-15,Curto,True
+The Binding of Isaac,RPG,3.91,5,2011-09-28,Curto,True
+Dragon Age: Origins,RPG,4.39,7,2009-11-03,Curto,True
+Fallout 3,RPG,4.08,4,2008-10-28,Curto,True
+Yakuza 0,RPG,4.37,8,2015-03-12,Curto,True
+Torchlight II,RPG,3.83,10,2012-09-20,Médio,True
+Dragon Age: Inquisition,RPG,3.79,4,2014-11-18,Curto,True
+The Outer Worlds,RPG,3.86,8,2019-10-25,Curto,True
+Borderlands 3,RPG,3.88,11,2019-09-13,Médio,True
+Dark Souls II: Scholar of the First Sin,RPG,4.15,25,2015-04-01,Longo,True
+Deus Ex: Human Revolution,RPG,4.37,17,2011-08-22,Médio,True
+The Legend of Zelda: Breath of the Wild,RPG,4.49,121,2017-03-03,Longo,True
+To the Moon,RPG,4.29,4,2011-01-10,Curto,True
+Borderlands Game of the Year Enhanced,RPG,3.79,3,2019-04-03,Curto,True
+Tom Clancy’s The Division,RPG,3.7,27,2016-03-07,Longo,True
+Age of Wonders III,RPG,2.9,4,2014-03-31,Curto,False
+Rust,RPG,3.37,15,2018-02-09,Médio,False
+Deus Ex: Game of the Year Edition,RPG,4.12,1,2000-06-22,Curto,True
+S.T.A.L.K.E.R.: Shadow of Chernobyl,RPG,4.28,3,2007-03-19,Curto,True
+Dark Souls: Prepare To Die Edition,RPG,4.37,14,2012-08-23,Médio,True
+FINAL FANTASY XV,RPG,3.87,5,2016-11-29,Curto,True
+The Binding of Isaac: Rebirth,RPG,4.33,30,2014-11-03,Longo,True
+Divinity: Original Sin - Enhanced Edition,RPG,4.26,8,2015-10-27,Curto,True
+Darksiders II Deathinitive Edition,RPG,3.79,9,2015-11-05,Curto,True
+Star Wars: Knights of the Old Republic II – The Sith Lords,RPG,4.37,4,2004-12-06,Curto,True
+Dark Souls: Remastered,RPG,4.48,15,2018-05-23,Médio,True
+Fallout 2,RPG,4.35,2,1998-09-30,Curto,True
+Beholder,RPG,3.81,4,2016-11-08,Curto,True
+Fallout 3: Game of the Year Edition,RPG,4.13,4,2009-10-13,Curto,True
+Starbound,RPG,3.82,17,2016-07-22,Médio,True
+Murdered: Soul Suspect,RPG,3.48,5,2014-06-03,Curto,False
+Neverwinter,RPG,2.93,6,2013-06-20,Curto,False
+The Elder Scrolls Online: Tamriel Unlimited,RPG,3.48,16,2015-03-17,Médio,False
+Lords of the Fallen (2014),RPG,2.91,4,2014-10-28,Curto,False
+Darksiders II,RPG,3.74,5,2012-08-14,Curto,True
+Slay the Spire,RPG,4.37,12,2019-01-22,Médio,True
+Dragon's Dogma: Dark Arisen,RPG,3.92,7,2013-04-23,Curto,True
+Oxenfree,RPG,3.91,4,2016-01-14,Curto,True
+Child of Light,RPG,3.85,3,2014-04-29,Curto,True
+Vampire Survivors,RPG,4.19,11,2022-10-20,Médio,True
+Gwent: The Witcher Card Game,RPG,3.59,2,2018-10-23,Curto,True
+The Elder Scrolls III: Morrowind,RPG,4.37,2,2002-05-01,Curto,True
+Divinity: Original Sin,RPG,4.18,6,2014-06-30,Curto,True
+Vampyr,RPG,3.49,6,2018-06-04,Curto,False
+Dying Light,RPG,4.1,22,2015-01-27,Longo,True
+Rogue Legacy,RPG,3.87,6,2013-06-27,Curto,True
+Overlord,RPG,3.82,1,2007-06-26,Curto,True
+Deponia,RPG,3.84,4,2012-01-27,Curto,True
+Gothic Playable Teaser,RPG,2.55,1,2019-12-01,Curto,False
+Tabletop Simulator,RPG,4.05,7,2015-06-05,Curto,True
+Dust: An Elysian Tail,RPG,3.63,4,2012-08-15,Curto,True
+Persona 5,RPG,4.36,105,2016-09-15,Longo,True
+Pillars of Eternity,RPG,3.96,9,2015-03-26,Curto,True
+Yakuza Kiwami,RPG,4.1,10,2016-01-21,Médio,True
+S.T.A.L.K.E.R.: Call of Pripyat,RPG,4.27,3,2009-10-02,Curto,True
+The Elder Scrolls IV: Oblivion Game of the Year Edition,RPG,4.32,5,2009-06-16,Curto,True
+S.T.A.L.K.E.R.: Clear Sky,RPG,3.89,3,2008-08-22,Curto,True
+Mass Effect 3,RPG,4.4,30,2012-03-05,Longo,True
+Magicka 2,RPG,3.68,4,2015-05-26,Curto,True
+Robocraft,RPG,2.56,2,2014-07-08,Curto,False
+Deponia: The Complete Journey,RPG,3.61,4,2014-06-03,Curto,True
+Company of Heroes 2,Strategy,3.09,4,2013-06-25,Curto,False
+Sid Meier's Civilization V,Strategy,4.29,27,2010-09-21,Longo,True
+ARK: Survival Of The Fittest,Strategy,2.59,1,2016-03-15,Curto,False
+Cities: Skylines,Strategy,4.12,9,2015-03-10,Curto,True
+XCOM: Enemy Unknown,Strategy,4.2,13,2012-10-09,Médio,True
+Brutal Legend,Strategy,3.64,5,2009-10-12,Curto,True
+Crusader Kings II,Strategy,3.6,3,2012-02-13,Curto,True
+XCOM 2,Strategy,4.1,15,2016-02-04,Médio,True
+Black Desert Online,Strategy,2.91,4,2014-12-01,Curto,False
+Total War: SHOGUN 2,Strategy,3.6,5,2011-03-14,Curto,True
+Sid Meier’s Civilization VI,Strategy,4.16,15,2016-10-20,Médio,True
+Shadowrun Returns,Strategy,3.5,4,2013-07-24,Curto,True
+Divinity: Original Sin 2,Strategy,4.39,22,2017-09-14,Longo,True
+Darkest Dungeon,Strategy,4.17,8,2016-01-18,Curto,True
+The Sims 4,Strategy,3.67,4,2014-09-02,Curto,True
+FTL: Faster Than Light,Strategy,4.25,6,2012-09-14,Curto,True
+Kingdom: Classic,Strategy,3.39,4,2015-09-21,Curto,False
+Dragon Age: Inquisition,Strategy,3.79,4,2014-11-18,Curto,True
+Surviving Mars,Strategy,3.47,4,2018-03-14,Curto,False
+Frostpunk,Strategy,4.18,6,2018-04-24,Curto,True
+Age of Wonders III,Strategy,2.9,4,2014-03-31,Curto,False
+Company of Heroes,Strategy,3.68,7,2006-09-11,Curto,True
+Tropico 4,Strategy,3.51,4,2011-08-24,Curto,True
+Prison Architect,Strategy,3.72,5,2015-10-05,Curto,True
+Minion Masters,Strategy,2.3,5,2019-05-24,Curto,False
+Sid Meier's Civilization III Complete,Strategy,3.69,1,2001-10-29,Curto,True
+Beholder,Strategy,3.81,4,2016-11-08,Curto,True
+Sanctum 2,Strategy,2.97,3,2013-05-15,Curto,False
+Endless Space - Collection,Strategy,3.09,5,2012-07-04,Curto,False
+Drawful 2,Strategy,3.21,1,2016-06-20,Curto,False
+Slay the Spire,Strategy,4.37,12,2019-01-22,Médio,True
+Stellaris,Strategy,4.1,10,2016-05-08,Médio,True
+Gwent: The Witcher Card Game,Strategy,3.59,2,2018-10-23,Curto,True
+Monaco: What's Yours Is Mine,Strategy,3.0,3,2013-04-24,Curto,False
+STAR WARS Battlefront,Strategy,3.29,3,2015-11-17,Curto,False
+Divinity: Original Sin,Strategy,4.18,6,2014-06-30,Curto,True
+Tabletop Simulator,Strategy,4.05,7,2015-06-05,Curto,True
+Shadow Tactics: Blades of the Shogun,Strategy,4.08,4,2016-12-05,Curto,True
+Sins of a Solar Empire: Rebellion,Strategy,2.73,5,2012-06-12,Curto,False
+World of Goo,Strategy,4.02,1,2008-10-13,Curto,True
+Satellite Reign,Strategy,2.65,4,2015-08-27,Curto,False
+Awesomenauts,Strategy,3.05,7,2012-05-01,Curto,False
+ARMA: Cold War Assault,Strategy,2.87,1,2001-08-29,Curto,False
+Orcs Must Die! 2,Strategy,3.7,6,2012-07-30,Curto,True
+Shadowrun: Dragonfall - Director's Cut,Strategy,3.82,4,2014-09-17,Curto,True
+Baldur's Gate III,Strategy,4.45,19,2023-08-03,Médio,True
+Dota Underlords,Strategy,3.02,4,2020-02-25,Curto,False
+Clicker Heroes,Strategy,2.65,9,2015-05-13,Curto,False
+Galactic Civilizations II: Ultimate Edition,Strategy,2.64,1,2011-12-02,Curto,False
+Mount & Blade: Warband,Strategy,4.35,10,2010-03-30,Médio,True
+"Warhammer 40,000: Dawn of War - Game of the Year Edition",Strategy,3.97,3,2007-08-07,Curto,True
+Prototype,Strategy,3.79,3,2009-06-09,Curto,True
+Plants vs. Zombies GOTY Edition,Strategy,4.33,5,2010-08-10,Curto,True
+The Banner Saga,Strategy,4.08,5,2014-01-14,Curto,True
+Fallout Tactics: Brotherhood of Steel,Strategy,3.37,1,2001-03-01,Curto,False
+Age of Empires II HD,Strategy,4.2,6,2013-04-09,Curto,True
+Ultimate Epic Battle Simulator,Strategy,2.64,1,2017-04-12,Curto,False
+Plague Inc: Evolved,Strategy,3.98,5,2015-09-18,Curto,True
+EVE Online,Strategy,3.35,3,2003-05-06,Curto,False
+Tropico 5,Strategy,3.64,5,2014-05-22,Curto,True
+Dungeons 2,Strategy,2.84,4,2015-04-23,Curto,False
+ArmA II,Strategy,3.19,1,2009-06-18,Curto,False
+Scribblenauts Unlimited,Strategy,3.62,4,2012-11-13,Curto,True
+Company of Heroes: Opposing Fronts,Strategy,3.44,1,2007-09-24,Curto,False
+X-COM: UFO Defense,Strategy,3.65,1,1993-12-30,Curto,True
+This is the Police,Strategy,3.89,6,2016-08-01,Curto,True
+SpaceChem,Strategy,3.08,2,2011-01-01,Curto,False
+The Red Solstice,Strategy,2.27,4,2015-07-09,Curto,False
+Dungeon of the Endless,Strategy,3.61,3,2014-10-27,Curto,True
+Tropico 3,Strategy,3.36,1,2009-10-20,Curto,False
+Endless Legend,Strategy,3.63,6,2014-09-18,Curto,True
+Besiege,Strategy,3.79,2,2015-01-28,Curto,True
+Aegis Defenders,Strategy,2.53,1,2018-02-07,Curto,False
+Factorio,Strategy,4.37,20,2020-08-14,Médio,True
+Game Dev Tycoon,Strategy,4.0,8,2012-12-10,Curto,True
+Orcs Must Die!,Strategy,3.7,3,2011-10-05,Curto,True
+Anomaly: Warzone Earth,Strategy,2.91,2,2011-04-07,Curto,False
+Company of Heroes: Tales of Valor,Strategy,3.39,1,2009-04-07,Curto,False
+"Warhammer 40,000: Dawn of War II",Strategy,3.95,6,2009-02-18,Curto,True
+ArmA II: Operation Arrowhead,Strategy,3.27,3,2010-06-29,Curto,False
+Cortex Command,Strategy,2.57,2,2012-09-28,Curto,False
+Valkyria Chronicles,Strategy,4.06,6,2008-04-24,Curto,True
+Into the Breach,Strategy,4.32,5,2018-02-26,Curto,True
+Dungeon Defenders,Strategy,3.33,8,2010-12-16,Curto,False
+Northgard,Strategy,3.76,5,2018-03-06,Curto,True
+Graveyard Keeper,Strategy,3.72,7,2018-08-14,Curto,True
+Regions Of Ruin,Strategy,2.47,1,2018-02-04,Curto,False
+Worms Armageddon,Strategy,4.31,2,1999-01-29,Curto,True
+Arma 3,Strategy,3.83,16,2013-09-12,Médio,True
+Dungeon Defenders II,Strategy,2.96,3,2014-12-05,Curto,False
+Baldur's Gate: Enhanced Edition,Strategy,4.1,4,2012-11-28,Curto,True
+Inscryption,Strategy,4.39,8,2021-10-19,Curto,True
+Kingdom: New Lands,Strategy,3.88,4,2015-10-21,Curto,True
+Command & Conquer: Red Alert 3 - Uprising,Strategy,3.58,1,2009-03-12,Curto,True
+Endless Space 2,Strategy,3.86,5,2016-10-06,Curto,True
+Jagged Alliance 1: Gold Edition,Strategy,2.46,1,1994-04-02,Curto,False
+Ashes of the Singularity: Escalation,Strategy,2.41,3,2016-11-09,Curto,False
+"Invisible, Inc.",Strategy,3.53,3,2015-05-12,Curto,True
+Sid Meier's Civilization IV,Strategy,4.11,1,2005-10-25,Curto,True
+Fractured Space,Strategy,2.4,1,2016-09-22,Curto,False
+RimWorld,Strategy,4.35,19,2016-07-15,Médio,True
+Space Engineers,Strategy,3.53,5,2013-10-23,Curto,True
+Quiplash,Strategy,3.55,1,2015-06-30,Curto,True
+Bomber Crew,Strategy,3.11,3,2017-10-19,Curto,False
+Europa Universalis IV,Strategy,4.21,6,2013-08-12,Curto,True
+Satisfactory,Strategy,4.3,12,2024-09-11,Médio,True
+Wasteland 2: Director's Cut,Strategy,3.63,6,2015-10-13,Curto,True
+Punch Club,Strategy,3.66,5,2016-01-07,Curto,True
+King's Bounty: The Legend,Strategy,4.21,3,2008-04-24,Curto,True
+Planet Coaster,Strategy,3.79,5,2016-11-17,Curto,True
+"Warhammer 40,000: Dawn of War II: Retribution",Strategy,3.81,6,2011-02-28,Curto,True
+Crusader Kings III,Strategy,4.31,12,2020-09-01,Médio,True
+Gunpoint,Strategy,4.02,3,2013-06-03,Curto,True
+Natural Selection 2,Strategy,3.24,3,2012-10-30,Curto,False
+100% Orange Juice,Strategy,2.97,4,2013-09-10,Curto,False
+Oxygen Not Included,Strategy,4.14,7,2017-05-18,Curto,True
+Baldur's Gate II: Enhanced Edition,Strategy,4.27,4,2013-11-15,Curto,True
+Loop Hero,Strategy,4.05,10,2021-03-04,Médio,True
+Hearts of Iron IV,Strategy,4.06,8,2016-06-06,Curto,True
+Hitman,Simulation,3.93,7,2016-03-11,Curto,True
+Stardew Valley,Simulation,4.4,13,2016-02-25,Médio,True
+Garry's Mod,Simulation,3.8,14,2004-12-24,Médio,True
+Don't Starve Together,Simulation,3.77,7,2016-04-21,Curto,True
+Minecraft,Simulation,4.43,26,2009-05-10,Longo,True
+Cities: Skylines,Simulation,4.12,9,2015-03-10,Curto,True
+No Man's Sky,Simulation,3.7,15,2016-08-09,Médio,True
+Crusader Kings II,Simulation,3.6,3,2012-02-13,Curto,True
+Among Us,Simulation,3.84,5,2018-07-25,Curto,True
+Black Desert Online,Simulation,2.91,4,2014-12-01,Curto,False
+Viscera Cleanup Detail: Shadow Warrior,Simulation,2.59,2,2013-09-26,Curto,False
+Sid Meier’s Civilization VI,Simulation,4.16,15,2016-10-20,Médio,True
+This War of Mine,Simulation,4.07,4,2014-11-14,Curto,True
+"Papers, Please",Simulation,4.38,4,2013-08-08,Curto,True
+Fallout Shelter,Simulation,3.43,3,2015-06-15,Curto,False
+DiRT Rally,Simulation,3.69,4,2015-12-07,Curto,True
+Goat Simulator,Simulation,3.17,3,2014-04-01,Curto,False
+The Sims 4,Simulation,3.67,4,2014-09-02,Curto,True
+FTL: Faster Than Light,Simulation,4.25,6,2012-09-14,Curto,True
+Kingdom: Classic,Simulation,3.39,4,2015-09-21,Curto,False
+Euro Truck Simulator 2,Simulation,4.12,12,2012-10-19,Médio,True
+Surviving Mars,Simulation,3.47,4,2018-03-14,Curto,False
+Frostpunk,Simulation,4.18,6,2018-04-24,Curto,True
+Overcooked,Simulation,4.07,4,2016-08-01,Curto,True
+The Long Dark,Simulation,3.91,5,2014-09-22,Curto,True
+Tropico 4,Simulation,3.51,4,2011-08-24,Curto,True
+Hacknet,Simulation,3.18,3,2015-08-11,Curto,False
+Guns of Icarus Online,Simulation,2.59,4,2012-09-30,Curto,False
+Prison Architect,Simulation,3.72,5,2015-10-05,Curto,True
+Sid Meier's Civilization III Complete,Simulation,3.69,1,2001-10-29,Curto,True
+Orwell: Keeping an Eye On You,Simulation,3.27,3,2016-10-27,Curto,False
+Stellaris,Simulation,4.1,10,2016-05-08,Médio,True
+VRChat,Simulation,3.14,2,2017-02-01,Curto,False
+ABZU,Simulation,3.92,3,2016-08-02,Curto,True
+The Flame in the Flood,Simulation,2.9,2,2016-02-23,Curto,False
+Tabletop Simulator,Simulation,4.05,7,2015-06-05,Curto,True
+Robocraft,Simulation,2.56,2,2014-07-08,Curto,False
+ARMA: Cold War Assault,Simulation,2.87,1,2001-08-29,Curto,False
+Kerbal Space Program,Simulation,4.16,5,2015-04-26,Curto,True
+Clicker Heroes,Simulation,2.65,9,2015-05-13,Curto,False
+Kholat,Simulation,2.65,3,2015-06-08,Curto,False
+Surgeon Simulator,Simulation,3.42,3,2013-04-18,Curto,False
+Steep,Simulation,3.48,5,2016-12-02,Curto,False
+Elite Dangerous,Simulation,3.93,14,2015-04-02,Médio,True
+Ultimate Epic Battle Simulator,Simulation,2.64,1,2017-04-12,Curto,False
+Plague Inc: Evolved,Simulation,3.98,5,2015-09-18,Curto,True
+Tropico 5,Simulation,3.64,5,2014-05-22,Curto,True
+Dungeons 2,Simulation,2.84,4,2015-04-23,Curto,False
+ArmA II,Simulation,3.19,1,2009-06-18,Curto,False
+Thief Gold,Simulation,4.0,1,1999-10-29,Curto,True
+This is the Police,Simulation,3.89,6,2016-08-01,Curto,True
+SpaceChem,Simulation,3.08,2,2011-01-01,Curto,False
+Tropico 3,Simulation,3.36,1,2009-10-20,Curto,False
+AdVenture Capitalist,Simulation,2.8,5,2015-02-19,Curto,False
+SPORE,Simulation,4.15,4,2008-09-04,Curto,True
+Besiege,Simulation,3.79,2,2015-01-28,Curto,True
+Snake Pass,Simulation,3.23,3,2017-03-28,Curto,False
+Factorio,Simulation,4.37,20,2020-08-14,Médio,True
+DiRT Rally 2.0,Simulation,3.57,2,2019-02-26,Curto,True
+Game Dev Tycoon,Simulation,4.0,8,2012-12-10,Curto,True
+Anomaly: Warzone Earth,Simulation,2.91,2,2011-04-07,Curto,False
+Slime Rancher,Simulation,3.87,6,2016-01-14,Curto,True
+ArmA II: Operation Arrowhead,Simulation,3.27,3,2010-06-29,Curto,False
+Her Story,Simulation,3.98,4,2015-06-23,Curto,True
+Guns of Icarus Alliance,Simulation,2.41,1,2017-03-31,Curto,False
+Northgard,Simulation,3.76,5,2018-03-06,Curto,True
+Graveyard Keeper,Simulation,3.72,7,2018-08-14,Curto,True
+Regions Of Ruin,Simulation,2.47,1,2018-02-04,Curto,False
+Crossout,Simulation,2.81,3,2017-05-30,Curto,False
+RaceRoom Racing Experience,Simulation,2.28,1,2013-02-12,Curto,False
+Arma 3,Simulation,3.83,16,2013-09-12,Médio,True
+Kingdom: New Lands,Simulation,3.88,4,2015-10-21,Curto,True
+Two Point Hospital,Simulation,3.75,4,2018-08-29,Curto,True
+Thief 3: Deadly Shadows,Simulation,3.76,1,2004-05-24,Curto,True
+Keep Talking and Nobody Explodes,Simulation,4.2,3,2015-10-08,Curto,True
+Ashes of the Singularity: Escalation,Simulation,2.41,3,2016-11-09,Curto,False
+RimWorld,Simulation,4.35,19,2016-07-15,Médio,True
+Space Engineers,Simulation,3.53,5,2013-10-23,Curto,True
+Little Inferno,Simulation,3.83,3,2012-11-17,Curto,True
+Bomber Crew,Simulation,3.11,3,2017-10-19,Curto,False
+Punch Club,Simulation,3.66,5,2016-01-07,Curto,True
+Planet Coaster,Simulation,3.79,5,2016-11-17,Curto,True
+Crusader Kings III,Simulation,4.31,12,2020-09-01,Médio,True
+Fishing Planet,Simulation,2.6,1,2015-08-11,Curto,False
+State of Decay 2,Simulation,3.29,8,2018-05-22,Curto,False
+Oxygen Not Included,Simulation,4.14,7,2017-05-18,Curto,True
+Loop Hero,Simulation,4.05,10,2021-03-04,Médio,True
+Spiritfarer,Simulation,4.12,5,2020-08-18,Curto,True
+Hearts of Iron IV,Simulation,4.06,8,2016-06-06,Curto,True
+Jurassic World Evolution,Simulation,3.61,6,2018-06-12,Curto,True
+Knights and Merchants,Simulation,2.79,3,2013-02-01,Curto,False
+Steel Rats,Simulation,2.64,2,2018-11-06,Curto,False
+My Time At Portia,Simulation,3.53,5,2019-01-14,Curto,True
+Medieval II: Total War,Simulation,4.08,4,2007-11-27,Curto,True
+Thief II: The Metal Age,Simulation,4.11,1,2000-02-29,Curto,True
+The Sims 3,Simulation,4.03,11,2009-06-02,Médio,True
+House Flipper,Simulation,3.83,7,2018-05-16,Curto,True
+Assetto Corsa,Simulation,3.9,2,2014-12-19,Curto,True
+Worms Revolution,Simulation,3.58,4,2012-10-09,Curto,True
+Star Wars: Squadrons,Simulation,3.17,3,2020-10-02,Curto,False
+The Escapists 2,Simulation,3.56,4,2017-08-21,Curto,True
+Mini Metro,Simulation,4.1,3,2015-11-05,Curto,True
+Project CARS,Simulation,3.57,4,2015-05-06,Curto,True
+American Truck Simulator,Simulation,3.99,6,2016-02-02,Curto,True
+Rebel Galaxy,Simulation,2.97,2,2015-10-19,Curto,False
+Emily is Away,Simulation,3.58,1,2015-11-20,Curto,True
+The Escapists,Simulation,3.43,4,2015-02-12,Curto,False
+Receiver,Simulation,2.83,1,2012-06-18,Curto,False
+Lovers in a Dangerous Spacetime,Simulation,3.58,3,2015-09-08,Curto,True
+Octodad: Dadliest Catch,Simulation,3.73,3,2014-01-29,Curto,True
+Reus,Simulation,3.07,3,2013-05-15,Curto,False
+Banished,Simulation,3.88,5,2014-02-17,Curto,True
+Project CARS 2,Simulation,3.6,4,2017-09-22,Curto,True
+Uplink,Simulation,3.33,1,2001-09-30,Curto,False
+Defy Gravity Extended,Simulation,2.05,2,2016-03-18,Curto,False
+Sid Meier's Civilization IV: Colonization,Simulation,3.62,1,2008-09-22,Curto,True
+PC Building Simulator,Simulation,3.85,4,2018-03-27,Curto,True
+Out There Somewhere,Simulation,2.63,3,2016-03-14,Curto,False
+Murderous Pursuits,Simulation,2.35,3,2018-04-26,Curto,False
+Portal 2,Shooter,4.59,11,2011-04-18,Médio,True
+Counter-Strike: Global Offensive,Shooter,3.56,64,2012-08-21,Longo,True
+Left 4 Dead 2,Shooter,4.09,9,2009-11-17,Curto,True
+BioShock Infinite,Shooter,4.38,12,2013-03-26,Médio,True
+Half-Life 2,Shooter,4.48,7,2004-11-16,Curto,True
+Borderlands 2,Shooter,4.01,11,2012-09-18,Médio,True
+BioShock,Shooter,4.36,3,2007-08-21,Curto,True
+Destiny 2,Shooter,3.52,6,2017-09-06,Curto,True
+PAYDAY 2,Shooter,3.52,9,2013-08-13,Curto,True
+Team Fortress 2,Shooter,3.68,8,2007-10-10,Curto,True
+DOOM (2016),Shooter,4.38,10,2016-05-12,Médio,True
+Cyberpunk 2077,Shooter,4.21,29,2020-12-10,Longo,True
+Warframe,Shooter,3.42,8,2013-03-25,Curto,False
+Metro 2033,Shooter,3.94,2,2010-03-16,Curto,True
+Metal Gear Solid V: The Phantom Pain,Shooter,4.16,22,2015-09-01,Longo,True
+Apex Legends,Shooter,3.64,5,2019-02-04,Curto,True
+BioShock 2,Shooter,4.07,3,2010-02-09,Curto,True
+Half-Life,Shooter,4.37,3,1998-11-19,Curto,True
+Half-Life 2: Episode One,Shooter,4.38,4,2006-06-01,Curto,True
+Half-Life 2: Episode Two,Shooter,4.45,5,2007-10-10,Curto,True
+BioShock Remastered,Shooter,4.24,4,2016-09-15,Curto,True
+Hitman,Shooter,3.93,7,2016-03-11,Curto,True
+Hotline Miami,Shooter,4.38,5,2012-10-22,Curto,True
+PlayerUnknown’s Battlegrounds,Shooter,3.27,29,2017-12-20,Longo,False
+Far Cry 3,Shooter,4.25,16,2012-11-28,Médio,True
+Alan Wake,Shooter,4.09,5,2010-05-14,Curto,True
+Wolfenstein: The New Order,Shooter,4.18,12,2014-05-19,Médio,True
+Spec Ops: The Line,Shooter,4.09,5,2012-06-26,Curto,True
+Prey,Shooter,4.28,10,2017-05-05,Médio,True
+Fallout: New Vegas,Shooter,4.43,12,2010-10-19,Médio,True
+Borderlands,Shooter,3.82,10,2009-10-20,Médio,True
+Hitman: Absolution,Shooter,3.75,7,2012-11-19,Curto,True
+Control,Shooter,4.15,6,2019-08-27,Curto,True
+Counter-Strike: Source,Shooter,3.75,7,2004-11-01,Curto,True
+Dead Space (2008),Shooter,4.38,3,2008-10-13,Curto,True
+Just Cause 3,Shooter,3.4,7,2015-11-30,Curto,False
+Metro: Last Light Redux,Shooter,4.13,7,2014-08-25,Curto,True
+Borderlands: The Pre-Sequel,Shooter,3.55,6,2014-10-13,Curto,True
+Counter-Strike,Shooter,4.05,3,2000-11-01,Curto,True
+Left 4 Dead,Shooter,4.1,5,2008-11-17,Curto,True
+Metro 2033 Redux,Shooter,4.1,6,2014-08-25,Curto,True
+Metal Gear Solid V: Ground Zeroes,Shooter,3.9,3,2014-03-18,Curto,True
+Just Cause 2,Shooter,3.61,3,2010-03-23,Curto,True
+Paladins,Shooter,3.08,6,2016-09-15,Curto,False
+Resident Evil 7: Biohazard,Shooter,4.33,10,2017-01-23,Médio,True
+Titanfall 2,Shooter,4.31,5,2016-10-28,Curto,True
+Unturned,Shooter,2.73,3,2014-07-07,Curto,False
+Mafia II,Shooter,4.24,13,2010-08-24,Médio,True
+Far Cry 5,Shooter,3.72,19,2018-03-27,Médio,True
+Metro Exodus,Shooter,4.16,6,2019-02-13,Curto,True
+Max Payne 3,Shooter,4.26,10,2012-05-15,Médio,True
+Tom Clancy's Rainbow Six Siege,Shooter,3.89,32,2015-12-01,Longo,True
+War Thunder,Shooter,3.19,6,2013-08-15,Curto,False
+Hitman 2,Shooter,4.04,5,2018-11-13,Curto,True
+DOOM Eternal,Shooter,4.38,12,2020-03-20,Médio,True
+Halo Infinite,Shooter,3.65,2,2021-12-08,Curto,True
+Battlefield 1,Shooter,3.83,6,2016-10-21,Curto,True
+Resident Evil 5,Shooter,3.82,11,2009-03-03,Médio,True
+Far Cry 4,Shooter,3.82,17,2014-11-18,Médio,True
+Insurgency,Shooter,3.42,4,2014-01-22,Curto,False
+Saints Row 2,Shooter,3.57,2,2008-10-14,Curto,True
+Call of Duty: Modern Warfare 2,Shooter,4.27,22,2009-11-10,Longo,True
+Call of Juarez: Gunslinger,Shooter,3.81,5,2013-05-14,Curto,True
+Grand Theft Auto III,Shooter,4.15,1,2001-10-22,Curto,True
+Red Dead Redemption,Shooter,4.43,6,2010-05-18,Curto,True
+Wolfenstein II: The New Colossus,Shooter,4.1,11,2017-10-25,Médio,True
+Call of Duty: Black Ops III,Shooter,3.27,16,2015-11-06,Médio,False
+Quake Champions,Shooter,3.26,2,2017-08-22,Curto,False
+Dead Island,Shooter,3.47,7,2011-09-06,Curto,False
+Half-Life: Blue Shift,Shooter,3.72,2,2001-06-01,Curto,True
+Half-Life: Opposing Force,Shooter,3.85,3,1999-11-19,Curto,True
+Resident Evil 4 (2005),Shooter,4.4,5,2005-01-11,Curto,True
+Call of Duty: Black Ops,Shooter,4.04,9,2010-11-09,Curto,True
+Quantum Break,Shooter,3.91,6,2016-04-05,Curto,True
+The Bureau: XCOM Declassified,Shooter,3.05,3,2013-08-20,Curto,False
+Dead Space 2,Shooter,4.38,5,2011-01-25,Curto,True
+Fallout 3,Shooter,4.08,4,2008-10-28,Curto,True
+SUPERHOT,Shooter,4.19,4,2016-02-24,Curto,True
+Battlefield 4,Shooter,3.95,6,2013-10-29,Curto,True
+Homefront,Shooter,2.96,2,2011-03-15,Curto,False
+Sniper Elite V2,Shooter,3.4,4,2012-05-01,Curto,False
+Call of Duty: WWII,Shooter,3.54,6,2017-11-03,Curto,True
+Hotline Miami 2: Wrong Number,Shooter,4.28,7,2015-03-09,Curto,True
+Resident Evil 6,Shooter,3.43,8,2012-10-02,Curto,False
+POSTAL 2,Shooter,3.91,4,2003-04-13,Curto,True
+The Outer Worlds,Shooter,3.86,8,2019-10-25,Curto,True
+Call of Duty: Modern Warfare 3,Shooter,3.77,8,2011-11-08,Curto,True
+Borderlands 3,Shooter,3.88,11,2019-09-13,Médio,True
+Borderlands Game of the Year Enhanced,Shooter,3.79,3,2019-04-03,Curto,True
+Alan Wake's American Nightmare,Shooter,3.41,3,2012-02-22,Curto,False
+Tom Clancy’s The Division,Shooter,3.7,27,2016-03-07,Longo,True
+"Warhammer 40,000: Space Marine",Shooter,3.47,5,2011-09-05,Curto,False
+PAYDAY The Heist,Shooter,3.34,4,2011-10-18,Curto,False
+Call of Duty: Black Ops II,Shooter,3.96,5,2012-11-13,Curto,True
+Ratchet & Clank,Shooter,4.05,18,2016-04-12,Médio,True
+Black Mesa,Shooter,4.34,6,2020-03-06,Curto,True
+Rust,Shooter,3.37,15,2018-02-09,Médio,False
+Deus Ex: Game of the Year Edition,Shooter,4.12,1,2000-06-22,Curto,True
+STAR WARS Battlefront II,Shooter,3.57,4,2017-11-17,Curto,True
+S.T.A.L.K.E.R.: Shadow of Chernobyl,Shooter,4.28,3,2007-03-19,Curto,True
+Hitman: Blood Money,Shooter,4.31,2,2006-05-29,Curto,True
+Counter-Strike: Condition Zero Deleted Scenes,Shooter,2.88,1,2004-03-23,Curto,False
+Max Payne,Shooter,4.45,2,2001-07-25,Curto,True
+Wolfenstein: The Old Blood,Shooter,4.01,7,2015-05-04,Curto,True
+The Evil Within,Shooter,3.97,6,2014-10-12,Curto,True
+Sanctum 2,Shooter,2.97,3,2013-05-15,Curto,False
+Resident Evil,Shooter,4.18,4,1996-03-22,Curto,True
+F.E.A.R.,Shooter,4.26,2,2005-10-18,Curto,True
+Enter the Gungeon,Shooter,4.08,6,2016-04-04,Curto,True
+Resident Evil 2,Shooter,4.5,11,2019-01-25,Médio,True
+Far Cry 3: Blood Dragon,Shooter,3.99,4,2013-04-30,Curto,True
+Serious Sam 3: BFE,Shooter,3.46,4,2011-11-22,Curto,False
+Resident Evil 3,Shooter,4.04,8,2020-04-02,Curto,True
+Mafia: Definitive Edition,Shooter,4.24,10,2020-09-25,Médio,True
+Far Cry 2,Shooter,3.46,2,2008-10-21,Curto,False
+PlanetSide 2,Shooter,2.97,3,2012-11-20,Curto,False
+F.E.A.R. 3,Shooter,3.35,3,2011-03-25,Curto,False
+Rocket League,Sports,3.93,21,2015-07-07,Longo,True
+Fall Guys: Ultimate Knockout,Sports,3.73,6,2020-08-04,Curto,True
+DiRT Rally,Sports,3.69,4,2015-12-07,Curto,True
+Jet Set Radio,Sports,3.41,1,2000-06-29,Curto,False
+VRChat,Sports,3.14,2,2017-02-01,Curto,False
+TEKKEN 7,Sports,4.02,7,2015-03-18,Curto,True
+Steep,Sports,3.48,5,2016-12-02,Curto,False
+F1 2015,Sports,2.69,5,2015-07-09,Curto,False
+SpeedRunners,Sports,3.75,4,2016-04-19,Curto,True
+Golf With Your Friends,Sports,3.82,4,2016-01-29,Curto,True
+DiRT Rally 2.0,Sports,3.57,2,2019-02-26,Curto,True
+Headsnatchers,Sports,1.83,2,2018-07-24,Curto,False
+F1 2018,Sports,3.33,3,2018-08-23,Curto,False
+Sonic & All-Stars Racing Transformed,Sports,3.9,5,2012-11-16,Curto,True
+RaceRoom Racing Experience,Sports,2.28,1,2013-02-12,Curto,False
+Pyre,Sports,4.17,4,2017-07-25,Curto,True
+Punch Club,Sports,3.66,5,2016-01-07,Curto,True
+Poker Night at the Inventory,Sports,3.4,3,2010-11-22,Curto,False
+DiRT 3,Sports,3.68,2,2011-05-24,Curto,True
+Horizon Chase Turbo,Sports,3.42,3,2018-05-15,Curto,False
+Fishing Planet,Sports,2.6,1,2015-08-11,Curto,False
+Assetto Corsa,Sports,3.9,2,2014-12-19,Curto,True
+Project CARS,Sports,3.57,4,2015-05-06,Curto,True
+FIFA 15,Sports,3.36,17,2014-09-20,Médio,False
+Project CARS 2,Sports,3.6,4,2017-09-22,Curto,True
+Defy Gravity Extended,Sports,2.05,2,2016-03-18,Curto,False
+Out There Somewhere,Sports,2.63,3,2016-03-14,Curto,False
+NBA 2K16,Sports,2.97,11,2015-09-25,Médio,False
+Lethal League,Sports,3.6,4,2014-08-27,Curto,True
+FIFA 14,Sports,3.42,35,2013-09-23,Longo,False
+OlliOlli2: Welcome to Olliwood,Sports,3.3,1,2015-03-03,Curto,False
+theHunter: Call of the Wild,Sports,3.44,4,2017-02-16,Curto,False
+Poker Night 2,Sports,3.59,3,2013-04-24,Curto,True
+Nidhogg,Sports,4.01,3,2014-01-13,Curto,True
+BEEP,Sports,1.93,3,2011-03-30,Curto,False
+NBA 2K20,Sports,3.06,12,2019-09-05,Médio,False
+DiRT 4,Sports,3.61,4,2017-06-06,Curto,True
+theHunter,Sports,2.52,1,2014-06-03,Curto,False
+Absolute Drift,Sports,2.9,2,2015-07-24,Curto,False
+Rec Room,Sports,3.02,2,2016-06-01,Curto,False
+Tony Hawk's Pro Skater 1 + 2,Sports,4.29,2,2020-09-04,Curto,True
+Pixel Puzzles Traditional Jigsaws,Sports,2.0,1,,Curto,False
+Kabounce,Sports,1.99,1,2018-05-29,Curto,False
+Polarity,Sports,2.21,3,2014-01-17,Curto,False
+GRID Autosport,Sports,3.69,6,2014-06-24,Curto,True
+Skate 3,Sports,4.16,9,2010-05-11,Curto,True
+Barro,Sports,1.8,1,2018-03-28,Curto,False
+FIFA 21,Sports,3.21,14,2020-10-06,Médio,False
+SNOW,Sports,2.55,1,2013-10-10,Curto,False
+Waveform,Sports,2.0,3,2012-03-20,Curto,False
+Worms Crazy Golf,Sports,2.62,1,2011-10-18,Curto,False
+Descenders,Sports,3.43,2,2019-05-07,Curto,False
+F1 2020,Sports,3.58,8,2020-07-10,Curto,True
+Morphopolis,Sports,2.6,3,2013-11-07,Curto,False
+Home,Sports,2.84,2,2012-08-31,Curto,False
+Vertiginous Golf,Sports,2.53,1,2015-05-06,Curto,False
+Laser League,Sports,2.79,1,2018-02-08,Curto,False
+Heavy Metal Machines,Sports,2.14,1,2017-01-31,Curto,False
+eFootball PES 2020,Sports,3.22,3,2019-09-10,Curto,False
+Pinball FX2,Sports,3.32,1,2010-10-13,Curto,False
+The Howler,Sports,2.32,3,2013-04-22,Curto,False
+Super MNC,Sports,2.2,1,2012-04-18,Curto,False
+F1 2019,Sports,3.64,8,2019-06-28,Curto,True
+OlliOlli,Sports,3.72,1,2014-01-21,Curto,True
+Revolution Ace,Sports,1.99,3,2014-03-19,Curto,False
+FIFA 22,Sports,3.39,21,2021-09-27,Longo,False
+RUSH,Sports,2.58,1,2010-12-03,Curto,False
+Blood Bowl Legendary Edition,Sports,2.56,1,2010-10-28,Curto,False
+PGA TOUR 2K21,Sports,3.45,3,2020-08-21,Curto,False
+WWE 2K Battlegrounds,Sports,2.47,1,2020-09-18,Curto,False
+Camera Obscura,Sports,2.03,3,2015-02-19,Curto,False
+Regular Human Basketball,Sports,2.81,2,2015-05-30,Curto,False
+DETOUR,Sports,1.68,3,2011-05-16,Curto,False
+SEGA Bass Fishing,Sports,2.72,1,2008-02-26,Curto,False
+Need for Speed: Hot Pursuit Remastered,Sports,3.62,3,2020-11-06,Curto,True
+EA SPORTS UFC 2,Sports,3.46,27,2016-03-15,Longo,False
+Legend of Mysteria RPG,Sports,1.78,4,2015-10-09,Curto,False
+ROBLOX,Sports,3.27,173,2006-08-27,Longo,False
+Star Saviors,Sports,1.72,4,2016-05-06,Curto,False
+Greyfox RPG,Sports,1.9,4,2014-09-12,Curto,False
+Lethal League Blaze,Sports,3.97,4,2018-10-24,Curto,True
+Labyronia RPG,Sports,1.89,4,2015-08-14,Curto,False
+The Hat Man: Shadow Ward,Sports,1.78,3,2016-06-10,Curto,False
+Freestyle2: Street Basketball,Sports,2.43,1,2015-04-01,Curto,False
+Knockout City,Sports,3.15,2,2021-05-21,Curto,False
+Disc Jam,Sports,2.98,3,2017-03-07,Curto,False
+Airscape - The Fall of Gravity,Sports,2.03,3,2015-08-11,Curto,False
+AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,Sports,2.7,1,2011-11-23,Curto,False
+NBA 2K17,Sports,3.33,14,2016-09-16,Médio,False
+URBAN TRIAL FREESTYLE,Sports,2.7,3,2013-02-12,Curto,False
+Labyronia RPG 2,Sports,1.78,4,2015-08-28,Curto,False
+NBA Playgrounds,Sports,3.13,1,2017-05-08,Curto,False
+Retrowave,Sports,3.21,1,2018-06-26,Curto,False
+Lonely Mountains: Downhill,Sports,3.63,2,2019-10-23,Curto,True
+Robot Roller-Derby Disco Dodgeball,Sports,2.94,4,2015-02-19,Curto,False
+WWE 2K16,Sports,2.92,4,2015-10-27,Curto,False
+art of rally,Sports,3.44,2,2020-09-23,Curto,False
+Supraball,Sports,2.07,3,2016-05-02,Curto,False
+SSX,Sports,3.49,17,2012-02-28,Médio,False
+NBA 2K14,Sports,3.31,7,2013-10-01,Curto,False
+Russian Fishing 4,Sports,2.73,1,2018-05-30,Curto,False
+Mount Your Friends,Sports,3.48,3,2014-07-29,Curto,False
+Golf It!,Sports,3.76,3,2017-02-17,Curto,True
+Gravilon,Sports,1.9,3,2015-03-30,Curto,False
+Sportsfriends,Sports,2.9,1,2014-05-06,Curto,False
+Merry Snowballs,Sports,2.48,1,2016-12-15,Curto,False
+Destiny Warriors RPG,Sports,1.59,4,2015-09-11,Curto,False
+F1 RACE STARS,Sports,2.84,1,2012-11-13,Curto,False
+Secret Of Magia,Sports,1.81,4,2015-08-21,Curto,False
+ACE - Arena: Cyber Evolution,Sports,1.88,1,2014-08-18,Curto,False
+Pumped BMX +,Sports,2.36,1,2015-09-18,Curto,False
