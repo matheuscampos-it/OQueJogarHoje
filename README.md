@@ -3,7 +3,10 @@
 ````markdown
 # 🎮 O Que Jogar Hoje? – Recomendador de Jogos com RAWG API + Python + Power BI
 
-Bem-vindo(a) ao projeto **“O Que Jogar Hoje?”**, um sistema de recomendação de jogos baseado nas preferências do usuário (gênero, tempo disponível e avaliação da crítica), utilizando a **RAWG API**, **Python** para tratamento de dados e um **dashboard interativo em Power BI**.
+Bem-vindo(a) ao projeto **“O Que Jogar Hoje?”**, um sistema de recomendação de jogos baseado nas
+preferências do usuário (gênero, tempo disponível e avaliação da crítica),
+utilizando a **RAWG API**, **Python** para tratamento de dados
+e um **dashboard interativo em Power BI**.
 
 > ⚡ Ideal para quem tem pouco tempo e muitas opções na biblioteca!
 
@@ -12,7 +15,8 @@ Bem-vindo(a) ao projeto **“O Que Jogar Hoje?”**, um sistema de recomendaçã
 ## 📌 Visão Geral
 
 Você já abriu sua lista de jogos e ficou paralisado sem saber o que jogar?  
-Esse projeto resolve isso para você com sugestões inteligentes baseadas no **seu tempo livre**, **gêneros favoritos** e **jogos bem avaliados pela comunidade**.
+Esse projeto resolve isso para você com sugestões inteligentes baseadas no **seu tempo livre**,
+ **gêneros favoritos** e **jogos bem avaliados pela comunidade**.
 
 ---
 
